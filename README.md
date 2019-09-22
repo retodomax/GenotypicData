@@ -4,7 +4,7 @@ Test respository for Statistical Analysis of High Throughput Genotypic Data cour
 
 Here follows an image:
 
-[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 Here follows a weblink:
 
