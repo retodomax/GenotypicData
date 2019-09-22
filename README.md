@@ -9,3 +9,13 @@ Here follows an image:
 Here follows a weblink:
 
 [Visit GitHub!](www.github.com)
+
+
+Inline `code`
+
+
+Ordered
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
